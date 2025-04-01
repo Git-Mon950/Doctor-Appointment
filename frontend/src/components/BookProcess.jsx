@@ -25,7 +25,7 @@ export default function BookProcess() {
                         <div className="inner-box text-center">
                             <figure className="icon-box"><img src="https://demo.freaktemplate.com/bookappointment/public/image_web/483570.png" alt="" /></figure>
                             <h5 className="card-title fs-5 fw-bolder text-black   " style={{ color: "#767676" }}>3. Get Instant Doctor Appoinment</h5>
-                            <p className="card-text" style={{ marginBottom: "0" }}>Hi</p>
+                            <p className="card-text" style={{ marginBottom: "0" }}>Get instant appointment with your doctor</p>
                         </div>
                     </div>
                 </div>
